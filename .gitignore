@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Temporary test files
+inputf.in
+outputf.out
+
+# Sublime Text
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
